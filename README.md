@@ -20,5 +20,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
 <!--<img src="https://github.r2v.ch/codewars?user=tibetianFox&name=true&top_languages=true&hide_clan=true&stroke=%23b362ff&theme=purple_dark" width="160" height="160"/>-->
 ![Codewars](https://github.r2v.ch/codewars?user=tibetianFox&name=true&top_languages=true&hide_clan=true&stroke=%23b362ff&theme=purple_dark)
